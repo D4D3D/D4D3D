@@ -1,4 +1,4 @@
-hi guys,i'm a fresher in China,i have a great interest in code or something.Nice to meet this website.
+hi guys,i'm a fresher in China,i have a great interest in code or something.Nice to meet you all.
 
 <!---
 D4D3D/D4D3D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
